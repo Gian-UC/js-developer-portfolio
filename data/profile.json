@@ -58,15 +58,31 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Projeto Previsão do Tempo",
+      "url": "https://gian-uc.github.io/Previsao-Do-Tempo/",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/Gian-UC/js-developer-portfolio",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/Gian-UC/Pokedex",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de carrosel do aranhaverso",
+      "url": "https://github.com/Gian-UC/Project-Spiderverse",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de carrosel parallax do aranhaverso",
+      "url": "https://github.com/Gian-UC/spiderverse",
       "github": true
     }
+    
   ],
   "professionalExperience": [
     {
